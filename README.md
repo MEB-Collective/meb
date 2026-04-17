@@ -7,4 +7,4 @@ Main repository of the MEB Collective. This repository contains our LaTeX source
 
 ## Contact
 
-If you have questions, suggestions, or would like to contribute, please contact us at: [gpohlenz@uni-bonn.de](mailto:gpohlenz@uni-bonn.de)
+If you have questions, suggestions, or would like to contribute, please contact us at: [infomeb@uni-bonn.de](mailto:infomeb@uni-bonn.de)
